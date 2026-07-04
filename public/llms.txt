@@ -1,0 +1,32 @@
+# V2EX Starter Template
+
+> A Next.js and Solana starter template for wallet connection, V2EX or SOL payments, V2EX balance queries, transaction inspection, message signing, and backend signature verification.
+
+## Canonical Pages
+
+- [Home](https://v2ex.becool.dev/) - Chinese demo page and token facts.
+- [English home](https://v2ex.becool.dev/en) - English demo page and token facts.
+- [FAQ](https://v2ex.becool.dev/faq) - Chinese answers for common implementation questions.
+- [English FAQ](https://v2ex.becool.dev/en/faq) - English answers for common implementation questions.
+- [Changelog](https://v2ex.becool.dev/changelog) - User-facing page updates.
+
+## Project Facts
+
+- Project name: V2EX Starter Template.
+- Repository: https://github.com/becoolme/v2ex-starter-template.
+- Token: V2EX, a Solana SPL Token.
+- Token contract address: 9raUVuzeWUk53co63M4WXLWPWE4Xc6Lpn7RS9dnkpump.
+- Token explorer: https://solscan.io/token/9raUVuzeWUk53co63M4WXLWPWE4Xc6Lpn7RS9dnkpump.
+- Network: Solana Mainnet Beta.
+- Token decimals: 6.
+- Recommended production RPC: a private Solana RPC from providers such as Alchemy, QuickNode, or Helius.
+
+## API Examples
+
+- GET /api/balance/[address] returns the V2EX balance for a Solana address.
+- GET /api/transaction/[signature] returns parsed V2EX or SOL transaction details when available.
+- POST /api/verify-signature verifies a wallet signature from message, signature, and publicKey.
+
+## Safety Boundary
+
+This project is a developer example, not investment advice. Do not connect a primary wallet or assets you cannot risk to a demo site.
