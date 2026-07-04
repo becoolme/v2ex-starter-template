@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="V2EX Starter Template social preview">
+  <rect width="1200" height="630" fill="#ffffff"/>
+  <rect x="64" y="64" width="1072" height="502" fill="#f8f8f8" stroke="#000000" stroke-width="6"/>
+  <rect x="64" y="64" width="1072" height="76" fill="#000000"/>
+  <text x="96" y="114" fill="#22c55e" font-family="SF Mono, Monaco, Consolas, monospace" font-size="32" font-weight="700">v2ex.becool.dev</text>
+  <text x="96" y="247" fill="#000000" font-family="SF Mono, Monaco, Consolas, monospace" font-size="70" font-weight="700">V2EX Starter</text>
+  <text x="96" y="326" fill="#000000" font-family="SF Mono, Monaco, Consolas, monospace" font-size="70" font-weight="700">Template</text>
+  <text x="96" y="404" fill="#333333" font-family="SF Mono, Monaco, Consolas, monospace" font-size="30">Solana wallet, payment, balance, and signature tools</text>
+  <text x="96" y="482" fill="#000000" font-family="SF Mono, Monaco, Consolas, monospace" font-size="24">Token: 9raUVuzeWUk53co63M4WXLWPWE4Xc6Lpn7RS9dnkpump</text>
+  <circle cx="1012" cy="314" r="82" fill="#000000"/>
+  <path d="M958 270h31l34 84 34-84h31l-50 116h-30l-50-116Z" fill="#ffffff"/>
+  <path d="M974 260h92v28h-92v-28Zm0 80h92v28h-92v-28Z" fill="#22c55e"/>
+</svg>
